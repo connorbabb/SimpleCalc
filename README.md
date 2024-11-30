@@ -4,7 +4,7 @@ I wanted to expand my knowledge on the Kotlin language by having it read through
 
 The program asks the user for a string input and then analyzes and computes the result from the equation given. It catches an error if there is a spacing or invalid amount of operators. It displays the result to the screen for the user.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](LINK)
 
 # Development Environment
 
